@@ -28,11 +28,5 @@ desktop.ini
 # Temporary files
 *.tmp
 *.temp
-*.log
 
-# Large binary files (if any)
-*.zip
-*.tar.gz
-*.blend
-*.wasm
-*.bin
+# Note: Challenge files (.zip, .tar.gz, .blend, .wasm, .bin, .7z) are intentionally included
